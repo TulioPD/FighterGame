@@ -1,1 +1,3 @@
 # FighterGame
+
+Small fighter game
